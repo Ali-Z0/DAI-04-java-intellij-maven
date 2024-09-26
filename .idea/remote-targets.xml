@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="3d81bf49-e801-49cb-a123-ebfd1a8d8eab">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.nmIKIM16o4&#10;, stderr=}/java-intellij-idea-and-maven" />
+        </config>
+        <ContributedStateBase type="MavenRuntime">
+          <config>
+            <option name="homePath" value="/home/ali/.sdkman/candidates/maven/current" />
+            <option name="versionString" value="Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
